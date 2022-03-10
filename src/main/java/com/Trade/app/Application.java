@@ -31,7 +31,7 @@ System.out.println("this is running");
 //		SmartConnect smartConnect = new SmartConnect();
 //		smartConnect.setApiKey("XaMs0U1P");
 //		smartConnect.setUserId("s692577");
-//		User user = smartConnect.generateSession("s692577", "Paisa@123");
+//		User user = smartConnect.generateSession("", "");
 //		System.out.println(user.toString());
 //		smartConnect.setAccessToken(user.getAccessToken());
 //		
